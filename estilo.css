@@ -1,0 +1,20 @@
+/*
+<!-- ------------------------------------ --
+        Universidade de Passo Fundo       
+         Desenvolvimento para Web
+              ADS - Nível III
+          Djessyca Louise Saraiva
+              150105@upf.br
+---------------------------------------- -->
+*/
+.loginpage{ text-align: center; background-color: black; margin: 0 auto; padding: 10px; color: white; padding-top: 20%;}
+.c01{ height: 500px; width: 900px; margin: 60px auto; padding: 20px;}
+.c02{border-style: solid; border-width: 0.5px; padding: 15px; }
+.titulo{ font-weight: bold; text-align: center;}
+.subtitulo{font-weight: bold;}
+.outro{background-color: black; color: white; padding: 10px; text-align: center;}
+.outro1{border-style: solid; border-width: 0.5px; padding: 15px; padding: 10px; text-align: right;}
+.tabelas{margin: 0 auto;}
+.tabelas th{padding: 10px; text-align: center;}
+.tabelas td{padding: 10px; text-align: center;}
+.col50{width: 50%; float:left;}
